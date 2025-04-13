@@ -1,4 +1,4 @@
-# Better Counter-Offer UI
+# Recycler Go Brrrr
 Print money using the 'Cash for Trash' Recyclers by simply opening the lid and pressing a button. Why pay $100 a day to hire a cleaner when you can earn $300 a day from the trash the game naturally spawns.
 
 This mod is only for the Main branch of the game. Have not tested it on any of the Beta Branches.
